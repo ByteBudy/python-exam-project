@@ -1,0 +1,165 @@
+Exam 101 with supervisors:
+ΜΙΧΑΛΗΣ ΣΚΥΛΑΚΑΚΗΣ ( michskilak@aueb.gr )
+ΒΑΓΓΕΛΗΣ ΣΠΑΝΟΣ ( vaggspanos@aueb.gr )
+ΓΕΩΡΓΙΑ ΜΟΥΣΤΑΚΑ ( georgmoust@aueb.gr )
+ΓΙΑΝΝΗΣ ΒΛΑΧΟΣ ( gvlachos@aueb.gr )
+ΕΛΕΝΗ ΔΗΜΗΤΡΟΠΟΥΛΟΥ ( eldimitrop@aueb.gr )
+ΒΑΣΙΛΕΙΟΣ ΠΑΥΛΟΠΟΠΟΥΛΟΣ ( vaspavlop@aueb.gr )
+
+Exam 102 with supervisors:
+ΠΑΝΤΕΛΗΣ ΒΑΣΙΛΟΠΟΥΛΟΣ ( pantvasilop@aueb.gr )
+ΣΤΕΛΙΟΣ ΔΑΣΚΑΛΑΚΗΣ ( steldaskal@aueb.gr )
+ΜΙΧΑΛΗΣ ΣΚΥΛΑΚΑΚΗΣ ( michskilak@aueb.gr )
+ΓΕΩΡΓΙΑ ΜΟΥΣΤΑΚΑ ( georgmoust@aueb.gr )
+
+Exam 103 with supervisors:
+ΣΤΑΥΡΟΣ ΛΑΓΟΣ ( stalagos@aueb.gr )
+ΠΑΝΤΕΛΗΣ ΒΑΣΙΛΟΠΟΥΛΟΣ ( pantvasilop@aueb.gr )
+ΜΑΡΙΝΑ ΜΩΡΑΪΤΗ ( marmoraiti@aueb.gr )
+ΣΤΕΛΙΟΣ ΔΑΣΚΑΛΑΚΗΣ ( steldaskal@aueb.gr )
+
+Exam 104 with supervisors:
+ΒΑΓΓΕΛΗΣ ΣΠΑΝΟΣ ( vaggspanos@aueb.gr )
+ΚΑΤΕΡΙΝΑ ΑΓΓΕΛΙΔΗ ( kaggelidi@aueb.gr )
+ΓΙΑΝΝΗΣ ΒΛΑΧΟΣ ( gvlachos@aueb.gr )
+ΕΛΕΝΗ ΔΗΜΗΤΡΟΠΟΥΛΟΥ ( eldimitrop@aueb.gr )
+ΠΑΝΑΓΙΩΤΑ ΜΗΤΡΟΠΟΥΛΟΥ ( panagmitrop@aueb.gr )
+
+Exam 105 with supervisors:
+ΑΓΓΕΛΙΚΗ ΕΛΕΥΘΕΡΙΟΥ ( aggeleyth@aueb.gr )
+ΚΩΝΣΤΑΝΤΙΝΟΣ ΜΕΛΙΔΗΣ ( kmelidis@aueb.gr )
+ΝΑΤΑΛΙΑ ΒΙΤΑΛΗ ( natvidali@aueb.gr )
+
+Exam 106 with supervisors:
+ΑΓΓΕΛΙΚΗ ΕΛΕΥΘΕΡΙΟΥ ( aggeleyth@aueb.gr )
+ΚΩΝΣΤΑΝΤΙΝΟΣ ΜΕΛΙΔΗΣ ( kmelidis@aueb.gr )
+ΝΑΤΑΛΙΑ ΒΙΤΑΛΗ ( natvidali@aueb.gr )
+
+Exam 107 with supervisors:
+ΑΓΓΕΛΙΚΗ ΕΛΕΥΘΕΡΙΟΥ ( aggeleyth@aueb.gr )
+ΚΩΝΣΤΑΝΤΙΝΟΣ ΜΕΛΙΔΗΣ ( kmelidis@aueb.gr )
+ΓΙΑΝΝΗΣ ΠΑΠΑΓΕΩΡΓΙΟΥ ( papageorg20@aueb.gr )
+
+Exam 108 with supervisors:
+ΑΓΓΕΛΙΚΗ ΕΛΕΥΘΕΡΙΟΥ ( aggeleyth@aueb.gr )
+ΓΙΑΝΝΗΣ ΠΑΠΑΓΕΩΡΓΙΟΥ ( papageorg20@aueb.gr )
+ΝΙΚΟΣ ΙΑΚΩΒΙΔΗΣ ( nikiakov@aueb.gr )
+
+Exam 109 with supervisors:
+ΣΤΑΥΡΟΣ ΛΑΓΟΣ ( stalagos@aueb.gr )
+ΧΡΗΣΤΟΣ ΣΩΤΗΡΟΠΟΥΛΟΣ ( xristsotirop@aueb.gr )
+ΠΑΝΤΕΛΗΣ ΒΑΣΙΛΟΠΟΥΛΟΣ ( pantvasilop@aueb.gr )
+ΜΑΡΙΝΑ ΜΩΡΑΪΤΗ ( marmoraiti@aueb.gr )
+
+Exam 110 with supervisors:
+ΜΙΧΑΛΗΣ ΣΚΥΛΑΚΑΚΗΣ ( michskilak@aueb.gr )
+ΚΑΤΕΡΙΝΑ ΑΓΓΕΛΙΔΗ ( kaggelidi@aueb.gr )
+ΠΑΝΑΓΙΩΤΑ ΜΗΤΡΟΠΟΥΛΟΥ ( panagmitrop@aueb.gr )
+ΒΑΣΙΛΕΙΟΣ ΠΑΥΛΟΠΟΠΟΥΛΟΣ ( vaspavlop@aueb.gr )
+ΜΑΡΙΑ ΠΑΠΑΔΟΠΟΥΛΟΥ ( mpapado@aueb.gr )
+ΑΝΑΣΤΑΣΙΟΣ ΔΙΑΜΑΝΤΙΔΗΣ ( anastdiam@aueb.gr )
+
+Exam 111 with supervisors:
+ΑΓΓΕΛΙΚΗ ΕΛΕΥΘΕΡΙΟΥ ( aggeleyth@aueb.gr )
+ΚΩΝΣΤΑΝΤΙΝΟΣ ΜΕΛΙΔΗΣ ( kmelidis@aueb.gr )
+
+Exam 112 with supervisors:
+ΣΤΕΛΙΟΣ ΔΑΣΚΑΛΑΚΗΣ ( steldaskal@aueb.gr )
+ΜΙΧΑΛΗΣ ΣΚΥΛΑΚΑΚΗΣ ( michskilak@aueb.gr )
+ΒΑΓΓΕΛΗΣ ΣΠΑΝΟΣ ( vaggspanos@aueb.gr )
+ΓΕΩΡΓΙΑ ΜΟΥΣΤΑΚΑ ( georgmoust@aueb.gr )
+
+Exam 113 with supervisors:
+ΑΓΓΕΛΙΚΗ ΕΛΕΥΘΕΡΙΟΥ ( aggeleyth@aueb.gr )
+ΝΙΚΟΣ ΙΑΚΩΒΙΔΗΣ ( nikiakov@aueb.gr )
+ΑΠΟΣΤΟΛΟΣ ΞΑΝΘΟΠΟΥΛΟΣ ( apostxanthop@aueb.gr )
+
+Exam 114 with supervisors:
+ΚΑΤΕΡΙΝΑ ΑΓΓΕΛΙΔΗ ( kaggelidi@aueb.gr )
+ΠΑΝΑΓΙΩΤΑ ΜΗΤΡΟΠΟΥΛΟΥ ( panagmitrop@aueb.gr )
+ΒΑΣΙΛΕΙΟΣ ΠΑΥΛΟΠΟΠΟΥΛΟΣ ( vaspavlop@aueb.gr )
+ΜΑΡΙΑ ΠΑΠΑΔΟΠΟΥΛΟΥ ( mpapado@aueb.gr )
+ΑΝΑΣΤΑΣΙΟΣ ΔΙΑΜΑΝΤΙΔΗΣ ( anastdiam@aueb.gr )
+ΑΛΕΞΑΝΔΡΟΣ ΓΙΑΝΝΟΠΟΥΛΟΣ ( alexgiann@aueb.gr )
+
+Exam 115 with supervisors:
+ΝΙΚΟΣ ΙΑΚΩΒΙΔΗΣ ( nikiakov@aueb.gr )
+ΑΠΟΣΤΟΛΟΣ ΞΑΝΘΟΠΟΥΛΟΣ ( apostxanthop@aueb.gr )
+ΓΕΩΡΓΙΟΣ ΚΑΤΣΑΝΟΣ ( gkatsanos@aueb.gr )
+
+Exam 116 with supervisors:
+ΑΓΓΕΛΙΚΗ ΕΛΕΥΘΕΡΙΟΥ ( aggeleyth@aueb.gr )
+ΝΑΤΑΛΙΑ ΒΙΤΑΛΗ ( natvidali@aueb.gr )
+
+Exam 117 with supervisors:
+ΝΑΤΑΛΙΑ ΒΙΤΑΛΗ ( natvidali@aueb.gr )
+ΓΙΑΝΝΗΣ ΠΑΠΑΓΕΩΡΓΙΟΥ ( papageorg20@aueb.gr )
+ΝΙΚΟΣ ΙΑΚΩΒΙΔΗΣ ( nikiakov@aueb.gr )
+
+Exam 118 with supervisors:
+ΑΝΝΑ ΛΑΖΑΡΟΥ ( annalaz@aueb.gr )
+ΧΡΙΣΤΙΝΑ ΚΑΤΡΑΚΗ ( xrkatraki@aueb.gr )
+ΠΑΝΑΓΙΩΤΗΣ ΣΑΜΑΡΑΣ ( pansamaras@aueb.gr )
+ΚΩΝΣΤΑΝΤΙΝΟΣ ΚΑΜΠΟΥΡΗΣ ( kkampouris@aueb.gr )
+ΝΙΚΟΛΕΤΑ ΚΟΛΛΙΑ ( nikkollia@aueb.gr )
+ΦΩΤΗΣ ΓΡΗΓΟΡΙΟΥ ( fotgregor@aueb.gr )
+ERROR 2 sups: 7 but assigned 6
+
+Exam 119 with supervisors:
+ΝΙΚΟΣ ΙΑΚΩΒΙΔΗΣ ( nikiakov@aueb.gr )
+ΑΠΟΣΤΟΛΟΣ ΞΑΝΘΟΠΟΥΛΟΣ ( apostxanthop@aueb.gr )
+ΜΑΡΙΝΑ ΜΩΡΑΪΤΗ ( marmoraiti@aueb.gr )
+ΣΤΕΛΙΟΣ ΔΑΣΚΑΛΑΚΗΣ ( steldaskal@aueb.gr )
+
+Exam 120 with supervisors:
+ΑΠΟΣΤΟΛΟΣ ΞΑΝΘΟΠΟΥΛΟΣ ( apostxanthop@aueb.gr )
+ΓΕΩΡΓΙΟΣ ΚΑΤΣΑΝΟΣ ( gkatsanos@aueb.gr )
+ΧΡΗΣΤΟΣ ΣΩΤΗΡΟΠΟΥΛΟΣ ( xristsotirop@aueb.gr )
+ΜΑΡΙΝΑ ΜΩΡΑΪΤΗ ( marmoraiti@aueb.gr )
+
+Exam 121 with supervisors:
+ΚΩΝΣΤΑΝΤΙΝΟΣ ΜΕΛΙΔΗΣ ( kmelidis@aueb.gr )
+ΝΑΤΑΛΙΑ ΒΙΤΑΛΗ ( natvidali@aueb.gr )
+ΓΙΑΝΝΗΣ ΠΑΠΑΓΕΩΡΓΙΟΥ ( papageorg20@aueb.gr )
+
+Exam 122 with supervisors:
+ΑΓΓΕΛΙΚΗ ΕΛΕΥΘΕΡΙΟΥ ( aggeleyth@aueb.gr )
+
+Exam 123 with supervisors:
+ΚΩΝΣΤΑΝΤΙΝΟΣ ΜΕΛΙΔΗΣ ( kmelidis@aueb.gr )
+ΝΑΤΑΛΙΑ ΒΙΤΑΛΗ ( natvidali@aueb.gr )
+ΓΙΑΝΝΗΣ ΠΑΠΑΓΕΩΡΓΙΟΥ ( papageorg20@aueb.gr )
+
+Exam 124 with supervisors:
+ΑΠΟΣΤΟΛΟΣ ΞΑΝΘΟΠΟΥΛΟΣ ( apostxanthop@aueb.gr )
+ΓΕΩΡΓΙΟΣ ΚΑΤΣΑΝΟΣ ( gkatsanos@aueb.gr )
+ΣΤΑΥΡΟΣ ΛΑΓΟΣ ( stalagos@aueb.gr )
+ΧΡΗΣΤΟΣ ΣΩΤΗΡΟΠΟΥΛΟΣ ( xristsotirop@aueb.gr )
+
+Exam 125 with supervisors:
+ΒΑΓΓΕΛΗΣ ΣΠΑΝΟΣ ( vaggspanos@aueb.gr )
+ΓΕΩΡΓΙΑ ΜΟΥΣΤΑΚΑ ( georgmoust@aueb.gr )
+ΚΑΤΕΡΙΝΑ ΑΓΓΕΛΙΔΗ ( kaggelidi@aueb.gr )
+ΓΙΑΝΝΗΣ ΒΛΑΧΟΣ ( gvlachos@aueb.gr )
+ΕΛΕΝΗ ΔΗΜΗΤΡΟΠΟΥΛΟΥ ( eldimitrop@aueb.gr )
+
+Exam 126 with supervisors:
+ΓΕΩΡΓΙΟΣ ΚΑΤΣΑΝΟΣ ( gkatsanos@aueb.gr )
+ΣΤΑΥΡΟΣ ΛΑΓΟΣ ( stalagos@aueb.gr )
+ΧΡΗΣΤΟΣ ΣΩΤΗΡΟΠΟΥΛΟΣ ( xristsotirop@aueb.gr )
+ΠΑΝΤΕΛΗΣ ΒΑΣΙΛΟΠΟΥΛΟΣ ( pantvasilop@aueb.gr )
+
+Exam 127 with supervisors:
+ΜΑΡΙΑ ΠΑΠΑΔΟΠΟΥΛΟΥ ( mpapado@aueb.gr )
+ΑΛΕΞΑΝΔΡΟΣ ΓΙΑΝΝΟΠΟΥΛΟΣ ( alexgiann@aueb.gr )
+ΑΝΝΑ ΛΑΖΑΡΟΥ ( annalaz@aueb.gr )
+ΧΡΙΣΤΙΝΑ ΚΑΤΡΑΚΗ ( xrkatraki@aueb.gr )
+ΠΑΝΑΓΙΩΤΗΣ ΣΑΜΑΡΑΣ ( pansamaras@aueb.gr )
+ΚΩΝΣΤΑΝΤΙΝΟΣ ΚΑΜΠΟΥΡΗΣ ( kkampouris@aueb.gr )
+ΟΡΕΣΤΗΣ ΓΕΩΡΓΙΟΥ ( orestgeorg@aueb.gr )
+
+Exam 128 with supervisors:
+ΓΕΩΡΓΙΟΣ ΚΑΤΣΑΝΟΣ ( gkatsanos@aueb.gr )
+ΣΤΑΥΡΟΣ ΛΑΓΟΣ ( stalagos@aueb.gr )
+ΧΡΗΣΤΟΣ ΣΩΤΗΡΟΠΟΥΛΟΣ ( xristsotirop@aueb.gr )
+ΠΑΝΤΕΛΗΣ ΒΑΣΙΛΟΠΟΥΛΟΣ ( pantvasilop@aueb.gr )
